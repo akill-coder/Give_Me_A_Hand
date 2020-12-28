@@ -16,6 +16,6 @@ Modules used:
          
 
  
- <a href=" https://www.youtube.com/watch?v=qSUOTEljs_Y&ab_channel=KreativeKorner" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+ <a href=" https://www.youtube.com/watch?v=qSUOTEljs_Y&ab_channel=KreativeKorner" target="_blank"><img src="https://github.com/akill-coder/Give_Me_A_Hand/blob/main/Mouse-Movement-Open-Gesture_Q320.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
   
