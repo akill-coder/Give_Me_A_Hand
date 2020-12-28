@@ -21,5 +21,5 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
   
 
 
- <a href=" https://www.youtube.com/watch?v=qSUOTEljs_Y&ab_channel=KreativeKorner" target="_blank">Click here for a LIVE DEMO!</a>
+[Click here for a Live Demo!](https://www.youtube.com/watch?v=qSUOTEljs_Y&ab_channel=KreativeKorner)
   
